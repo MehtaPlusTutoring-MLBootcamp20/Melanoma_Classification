@@ -1,1 +1,1 @@
-https://mehtaplustutoring-mlbootcamp20.github.io/Skin-Cancer/.
+ https://mehtaplustutoring-mlbootcamp20.github.io/Melanoma_Classification/
