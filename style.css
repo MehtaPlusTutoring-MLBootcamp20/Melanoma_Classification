@@ -211,7 +211,6 @@ footer{
   }
  
   .poster{
-    min-height:400px;
     
     text-align:center;
     color:#ffffff;
@@ -240,4 +239,9 @@ img {
   margin-left: auto;
   margin-right: auto;
   width: 87%;
+}
+
+.centerbanner {
+  display: block;
+  margin:0;
 }
