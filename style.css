@@ -215,5 +215,9 @@ footer{
     
     text-align:center;
     color:#ffffff;
+    
+  }
+  .gradcam{
+    width:100%;
   }
 }
